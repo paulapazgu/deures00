@@ -8,9 +8,7 @@ public class Exercici0001 {
         Scanner scanner = new Scanner(System.in);
         Locale localeUS = Locale.US;
 
-        /*
-            TODO: Resol aquí l'exercici
-        */
+        
 
         scanner.close();
     }
